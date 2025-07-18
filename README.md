@@ -2,7 +2,7 @@
 
 A simple web-based music player inspired by Spotify
 
-## 🚀 Live Demo
-![Uploading Screenshot 2025-07-18 at 9.38.30 PM.png…]()
+
+![Spotify Clone Screenshot](./Screenshot%202025-07-18%20at%209.38.30%E2%80%AFPM.png)
 
 
